@@ -1,17 +1,17 @@
 {
 "skeleton": {
-	"hash": "O+M+jHM0gAI1obol++GkO3vmZHQ",
+	"hash": "huvQNiobZYIuUi5F4ywbB9EdxrU",
 	"spine": "3.8.99",
-	"x": -345.8,
-	"y": -290.17,
-	"width": 691.6,
-	"height": 487.69,
+	"x": -368.03,
+	"y": -308.83,
+	"width": 736.06,
+	"height": 519.04,
 	"images": "./image/",
 	"audio": ""
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "all-null", "parent": "root", "scaleX": 1.4, "scaleY": 1.4 },
+	{ "name": "all-null", "parent": "root", "scaleX": 1.49, "scaleY": 1.49 },
 	{ "name": "text-freespins", "parent": "all-null", "y": -67.11 },
 	{ "name": "text-you-won", "parent": "root", "y": 172.93 },
 	{ "name": "text-congratulation", "parent": "root", "y": 252.91 },
