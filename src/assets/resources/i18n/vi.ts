@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "Tổng Cược",
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau."
+    },
+    "MahjongWins": {
+        "game_name": "Mạt Chược Phát Tài",
+        "game_icon_name": "Mạt Chược Phát Tài"
     }
 };
 

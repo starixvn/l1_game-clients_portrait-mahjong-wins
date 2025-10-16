@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "Total Bet",
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Unexpected error occurred. Please try again later."
+    },
+    "MahjongWins": {
+        "game_name": "Mahjong Wins",
+        "game_icon_name": "Mahjong Wins"
     }
 };
 

@@ -1,34 +1,97 @@
 
 decor.webp
-size: 1319,466
+size: 882,1621
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-L_fog
-  rotate: false
-  xy: 1, 1
-  size: 518, 464
-  orig: 603, 552
-  offset: 30, 23
-  index: -1
-R_fog
-  rotate: false
-  xy: 962, 98
-  size: 356, 367
-  orig: 540, 429
-  offset: 152, 42
-  index: -1
-bamboo-leaf2
+clould _button
   rotate: true
-  xy: 962, 72
-  size: 24, 140
-  orig: 24, 140
+  xy: 2, 219
+  size: 1400, 190
+  orig: 1400, 190
   offset: 0, 0
   index: -1
-circlelight
+clould_L01
+  rotate: true
+  xy: 194, 1069
+  size: 550, 165
+  orig: 586, 197
+  offset: 33, 3
+  index: -1
+clould_L02
+  rotate: true
+  xy: 194, 799
+  size: 268, 151
+  orig: 271, 152
+  offset: 1, 1
+  index: -1
+clould_L03
   rotate: false
-  xy: 521, 18
-  size: 439, 447
-  orig: 439, 447
+  xy: 365, 889
+  size: 450, 248
+  orig: 479, 308
+  offset: 29, 0
+  index: -1
+clould_L04
+  rotate: true
+  xy: 194, 234
+  size: 374, 213
+  orig: 375, 222
+  offset: 1, 6
+  index: -1
+clould_L05
+  rotate: false
+  xy: 2, 2
+  size: 361, 215
+  orig: 361, 220
   offset: 0, 0
+  index: -1
+clould_L06
+  rotate: false
+  xy: 365, 1139
+  size: 465, 299
+  orig: 467, 303
+  offset: 1, 2
+  index: -1
+clould_R01
+  rotate: false
+  xy: 365, 1440
+  size: 487, 179
+  orig: 492, 182
+  offset: 4, 3
+  index: -1
+clould_R02
+  rotate: true
+  xy: 709, 13
+  size: 270, 96
+  orig: 271, 101
+  offset: 0, 1
+  index: -1
+clould_R03
+  rotate: false
+  xy: 194, 689
+  size: 146, 108
+  orig: 148, 110
+  offset: 0, 0
+  index: -1
+clould_R04
+  rotate: false
+  xy: 347, 610
+  size: 529, 277
+  orig: 548, 282
+  offset: 19, 4
+  index: -1
+clould_R05
+  rotate: true
+  xy: 709, 285
+  size: 323, 171
+  orig: 324, 172
+  offset: 1, 1
+  index: -1
+glow_R
+  rotate: true
+  xy: 409, 41
+  size: 567, 298
+  orig: 682, 326
+  offset: 79, 28
   index: -1

@@ -1,0 +1,90 @@
+
+effect-freespin.webp
+size: 648,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 187, 0
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 376, 17
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 80, 3
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 292, 14
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 0, 0
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 493, 33
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 563, 60
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 563, 12
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 603, 21
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 151, 109
+  size: 494, 304
+  orig: 494, 304
+  offset: 0, 0
+  index: -1
+text-freespins
+  rotate: true
+  xy: 0, 83
+  size: 330, 86
+  orig: 339, 94
+  offset: 4, 4
+  index: -1
+text-freespins-glow
+  rotate: true
+  xy: 88, 108
+  size: 305, 61
+  orig: 307, 63
+  offset: 1, 1
+  index: -1

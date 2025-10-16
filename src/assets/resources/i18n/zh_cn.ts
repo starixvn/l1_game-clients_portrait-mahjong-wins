@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "总投注",
         "total_win": "总奖金",
         "Unexpected_gift_code_error_message": "发生意外错误。请稍后重试。"
+    },
+    "MahjongWins": {
+        "game_name": "麻将赢家",
+        "game_icon_name": "麻将赢家"
     }
 };
 

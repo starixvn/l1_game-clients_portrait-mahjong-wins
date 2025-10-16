@@ -476,6 +476,10 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
         "Close": "Kapat"
+    },
+    "MahjongWins": {
+        "game_name": "Mahjong Kazançları",
+        "game_icon_name": "Mahjong Kazançları"
     }
 };
 

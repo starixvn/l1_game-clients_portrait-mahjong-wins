@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "ยอดเดิมพันรวม",
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง"
+    },
+    "MahjongWins": {
+        "game_name": "ไพ่นกกระจอก",
+        "game_icon_name": "ไพ่นกกระจอก"
     }
 };
 
