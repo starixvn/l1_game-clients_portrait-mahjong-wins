@@ -1,229 +1,229 @@
 
 effect.webp
-size: 1935,777
+size: 2725,573
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 1
   rotate: false
-  xy: 1534, 125
+  xy: 993, 137
   size: 103, 107
   orig: 103, 107
   offset: 0, 0
   index: -1
 2
   rotate: false
-  xy: 1534, 8
+  xy: 741, 110
   size: 90, 115
   orig: 90, 115
   offset: 0, 0
   index: -1
 3
-  rotate: true
-  xy: 571, 2
+  rotate: false
+  xy: 1198, 30
   size: 78, 105
   orig: 78, 105
   offset: 0, 0
   index: -1
 4
   rotate: false
-  xy: 1119, 471
+  xy: 2629, 477
   size: 82, 93
   orig: 82, 93
   offset: 0, 0
   index: -1
 5
   rotate: false
-  xy: 678, 2
+  xy: 2629, 396
   size: 81, 78
   orig: 81, 78
   offset: 0, 0
   index: -1
 6
-  rotate: true
-  xy: 1203, 490
+  rotate: false
+  xy: 2338, 3
   size: 74, 68
   orig: 74, 68
   offset: 0, 0
   index: -1
 7
   rotate: false
-  xy: 1844, 664
+  xy: 2615, 281
   size: 61, 47
   orig: 61, 47
   offset: 0, 0
   index: -1
 8
   rotate: false
-  xy: 571, 169
+  xy: 1280, 8
   size: 46, 38
   orig: 46, 38
   offset: 0, 0
   index: -1
 9
   rotate: false
-  xy: 878, 106
+  xy: 1330, 9
   size: 45, 37
   orig: 45, 37
   offset: 0, 0
   index: -1
 blue_bg
   rotate: false
-  xy: 2, 209
+  xy: 4, 4
   size: 619, 566
   orig: 619, 566
   offset: 0, 0
   index: -1
 coin
   rotate: false
-  xy: 1844, 713
+  xy: 2629, 331
   size: 79, 62
   orig: 81, 64
   offset: 1, 1
   index: -1
 flash
-  rotate: true
-  xy: 1639, 217
+  rotate: false
+  xy: 955, 228
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 greenbag
-  rotate: true
-  xy: 1273, 7
+  rotate: false
+  xy: 1638, 4
   size: 246, 259
   orig: 246, 261
   offset: 0, 0
   index: -1
 greenbag-glow
   rotate: false
-  xy: 1657, 370
+  xy: 2058, 36
   size: 276, 292
   orig: 281, 296
   offset: 2, 2
   index: -1
 purplebag
   rotate: false
-  xy: 1273, 255
+  xy: 1262, 261
   size: 294, 309
   orig: 294, 312
   offset: 0, 0
   index: -1
 purplebag-glow
-  rotate: true
-  xy: 623, 145
+  rotate: false
+  xy: 627, 228
   size: 324, 342
   orig: 330, 346
   offset: 3, 2
   index: -1
 rbs_freespins
   rotate: false
-  xy: 1119, 566
+  xy: 1100, 138
   size: 534, 106
   orig: 534, 106
   offset: 0, 0
   index: -1
 redbag
   rotate: false
-  xy: 1657, 78
+  xy: 2338, 74
   size: 273, 290
   orig: 273, 292
   offset: 0, 0
   index: -1
 redbag-glow
   rotate: false
-  xy: 967, 146
-  size: 304, 323
+  xy: 955, 247
+  size: 303, 323
   orig: 309, 327
   offset: 3, 2
   index: -1
 reel_center_blue
   rotate: false
-  xy: 2, 106
+  xy: 627, 4
   size: 567, 101
   orig: 567, 101
   offset: 0, 0
   index: -1
 reel_center_purple
   rotate: false
-  xy: 1119, 674
+  xy: 2058, 469
   size: 567, 101
   orig: 567, 101
   offset: 0, 0
   index: -1
 reel_center_red
   rotate: false
-  xy: 2, 5
+  xy: 2058, 367
   size: 567, 99
   orig: 567, 99
   offset: 0, 0
   index: -1
 reel_lf_blue
-  rotate: true
-  xy: 761, 65
+  rotate: false
+  xy: 627, 108
   size: 15, 117
   orig: 15, 117
   offset: 0, 0
   index: -1
 reel_lf_purple
-  rotate: true
-  xy: 761, 48
+  rotate: false
+  xy: 646, 108
   size: 15, 117
   orig: 15, 117
   offset: 0, 0
   index: -1
 reel_lf_red
-  rotate: true
-  xy: 761, 31
+  rotate: false
+  xy: 665, 108
   size: 15, 117
   orig: 15, 117
   offset: 0, 0
   index: -1
 reel_rt_blue
-  rotate: true
-  xy: 761, 14
+  rotate: false
+  xy: 684, 108
   size: 15, 117
   orig: 15, 117
   offset: 0, 0
   index: -1
 reel_rt_purple
   rotate: false
-  xy: 1626, 6
+  xy: 703, 108
   size: 15, 117
   orig: 15, 117
   offset: 0, 0
   index: -1
 reel_rt_red
-  rotate: true
-  xy: 1643, 61
+  rotate: false
+  xy: 722, 108
   size: 15, 117
   orig: 15, 117
   offset: 0, 0
   index: -1
 table
   rotate: false
-  xy: 623, 471
+  xy: 1560, 266
   size: 494, 304
   orig: 494, 304
   offset: 0, 0
   index: -1
 text-freespins
-  rotate: true
-  xy: 1569, 234
+  rotate: false
+  xy: 1280, 49
   size: 330, 86
   orig: 339, 94
   offset: 4, 4
   index: -1
 text-freespins-glow
   rotate: false
-  xy: 571, 82
+  xy: 2416, 10
   size: 305, 61
   orig: 307, 63
   offset: 1, 1
   index: -1
 yuanbao
   rotate: false
-  xy: 1688, 664
+  xy: 835, 114
   size: 154, 111
   orig: 155, 111
   offset: 0, 0
