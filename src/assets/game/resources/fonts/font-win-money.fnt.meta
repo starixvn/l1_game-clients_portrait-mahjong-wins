@@ -9,8 +9,8 @@
   "subMetas": {},
   "userData": {
     "_fntConfig": {
-      "commonHeight": 48,
-      "fontSize": 48,
+      "commonHeight": 36,
+      "fontSize": 36,
       "atlasName": "font-win-money.png",
       "fontDefDictionary": {
         "9": {
@@ -62,10 +62,10 @@
             "x": 33,
             "y": 38,
             "width": 31,
-            "height": 35
+            "height": 36
           },
           "xOffset": 0,
-          "yOffset": 3,
+          "yOffset": 0,
           "xAdvance": 25
         },
         "49": {
@@ -73,10 +73,10 @@
             "x": 96,
             "y": 39,
             "width": 21,
-            "height": 37
+            "height": 36
           },
           "xOffset": 0,
-          "yOffset": 1,
+          "yOffset": 0,
           "xAdvance": 15
         },
         "50": {
@@ -84,10 +84,10 @@
             "x": 0,
             "y": 0,
             "width": 32,
-            "height": 37
+            "height": 36
           },
           "xOffset": 0,
-          "yOffset": 1,
+          "yOffset": 0,
           "xAdvance": 26
         },
         "51": {
@@ -95,10 +95,10 @@
             "x": 65,
             "y": 76,
             "width": 30,
-            "height": 37
+            "height": 36
           },
           "xOffset": 0,
-          "yOffset": 1,
+          "yOffset": 0,
           "xAdvance": 24
         },
         "52": {
@@ -106,7 +106,7 @@
             "x": 0,
             "y": 38,
             "width": 32,
-            "height": 38
+            "height": 36
           },
           "xOffset": 0,
           "yOffset": 0,
@@ -117,10 +117,10 @@
             "x": 65,
             "y": 0,
             "width": 30,
-            "height": 37
+            "height": 36
           },
           "xOffset": 0,
-          "yOffset": 1,
+          "yOffset": 0,
           "xAdvance": 24
         },
         "54": {
@@ -128,10 +128,10 @@
             "x": 33,
             "y": 0,
             "width": 31,
-            "height": 37
+            "height": 36
           },
           "xOffset": 0,
-          "yOffset": 1,
+          "yOffset": 0,
           "xAdvance": 25
         },
         "55": {
@@ -142,7 +142,7 @@
             "height": 36
           },
           "xOffset": 0,
-          "yOffset": 2,
+          "yOffset": 0,
           "xAdvance": 25
         },
         "56": {
@@ -150,10 +150,10 @@
             "x": 0,
             "y": 77,
             "width": 32,
-            "height": 37
+            "height": 36
           },
           "xOffset": 0,
-          "yOffset": 1,
+          "yOffset": 0,
           "xAdvance": 26
         },
         "57": {
@@ -161,10 +161,10 @@
             "x": 65,
             "y": 38,
             "width": 30,
-            "height": 37
+            "height": 36
           },
           "xOffset": 0,
-          "yOffset": 1,
+          "yOffset": 0,
           "xAdvance": 24
         },
         "120": {
@@ -172,7 +172,7 @@
             "x": 96,
             "y": 0,
             "width": 29,
-            "height": 38
+            "height": 36
           },
           "xOffset": 0,
           "yOffset": 0,
@@ -181,7 +181,7 @@
       },
       "kerningDict": {}
     },
-    "fontSize": 48,
+    "fontSize": 36,
     "textureUuid": "398cb139-9364-4d8b-8cac-68bb9a0c51f6"
   }
 }
