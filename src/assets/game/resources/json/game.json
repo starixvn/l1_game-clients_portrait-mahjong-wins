@@ -9,5 +9,5 @@
     "fixedExplodeDuration": 0.6,
     "allowFreeSpinsFeature": false,
     "multiplierLandMascotAnimationName": "event",
-    "newMultiplierRange": true
+    "newMultiplierRange": false
 }
