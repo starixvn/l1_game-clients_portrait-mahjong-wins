@@ -1,14 +1,5 @@
 {
-"skeleton": {
-	"hash": "OJkr37JfLtL4M7pOEHof1dcTVJ4",
-	"spine": "3.8.99",
-	"x": -150,
-	"y": -135.5,
-	"width": 300,
-	"height": 813.32,
-	"images": "./image/",
-	"audio": ""
-},
+"skeleton": { "hash": "gMTMAbFePzSZvSH5aBX5vLiGKSA", "spine": "3.8.99", "x": -150, "y": -135.5, "width": 300, "height": 813.32 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "drop", "parent": "root", "y": 327.82 },
@@ -30,7 +21,7 @@
 		"name": "default",
 		"attachments": {
 			"drop/drop_0": {
-				"drop/drop_00": { "width": 300, "height": 700 },
+				"drop/drop_00": { "width": 1, "height": 1 },
 				"drop/drop_01": { "width": 300, "height": 700 },
 				"drop/drop_02": { "width": 300, "height": 700 },
 				"drop/drop_03": { "width": 300, "height": 700 },
@@ -47,7 +38,7 @@
 				"drop/drop_14": { "width": 300, "height": 700 }
 			},
 			"drop/drop_00": {
-				"drop/drop_00": { "width": 300, "height": 700 },
+				"drop/drop_00": { "width": 1, "height": 1 },
 				"drop/drop_01": { "width": 300, "height": 700 },
 				"drop/drop_02": { "width": 300, "height": 700 },
 				"drop/drop_03": { "width": 300, "height": 700 },
@@ -64,9 +55,9 @@
 				"drop/drop_14": { "width": 300, "height": 700 }
 			},
 			"explode-1/explode-1_05": {
-				"explode-1/explode-1_05": { "width": 225, "height": 179 },
-				"explode-1/explode-1_06": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
-				"explode-1/explode-1_07": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
+				"explode-1/explode-1_05": { "width": 1, "height": 1 },
+				"explode-1/explode-1_06": { "x": 0.5, "y": 0.5, "width": 1, "height": 1 },
+				"explode-1/explode-1_07": { "x": 0.5, "y": 0.5, "width": 1, "height": 1 },
 				"explode-1/explode-1_08": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
 				"explode-1/explode-1_09": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
 				"explode-1/explode-1_10": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
@@ -112,7 +103,7 @@
 				"vortex-glow/vortex-glow_11": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
 				"vortex-glow/vortex-glow_12": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
 				"vortex-glow/vortex-glow_13": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
-				"vortex-glow/vortex-glow_14": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 }
+				"vortex-glow/vortex-glow_14": { "x": 0.5, "y": 0.5, "width": 1, "height": 1 }
 			},
 			"vortex/vortex_04": {
 				"vortex/vortex_04": { "x": -0.02, "width": 225, "height": 179 },
@@ -125,7 +116,7 @@
 				"vortex/vortex_11": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
 				"vortex/vortex_12": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
 				"vortex/vortex_13": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 },
-				"vortex/vortex_14": { "x": 0.5, "y": 0.5, "width": 225, "height": 179 }
+				"vortex/vortex_14": { "x": 0.5, "y": 0.5, "width": 1, "height": 1 }
 			}
 		}
 	}
@@ -601,7 +592,7 @@
 		"slots": {
 			"drop/drop_0": {
 				"color": [
-					{ "color": "ff0000b8" }
+					{ "color": "fffc00b8" }
 				],
 				"attachment": [
 					{ "name": "drop/drop_00" },
@@ -624,7 +615,7 @@
 			},
 			"drop/drop_00": {
 				"color": [
-					{ "color": "ff0000ff" }
+					{ "color": "fffc00ff" }
 				],
 				"attachment": [
 					{ "name": "drop/drop_00" },
@@ -647,8 +638,8 @@
 			},
 			"explode-1/explode-1_05": {
 				"color": [
-					{ "color": "cf84ffff" },
-					{ "time": 0.3333, "color": "ff5151ff" }
+					{ "color": "fffc00b8" },
+					{ "time": 0.3333, "color": "fffc00d7" }
 				],
 				"attachment": [
 					{ "name": null },
@@ -702,7 +693,7 @@
 			},
 			"vortex-glow/vortex-glow_04": {
 				"color": [
-					{ "color": "ff0000ff" }
+					{ "color": "fffc00b8" }
 				],
 				"attachment": [
 					{ "time": 0.1333, "name": "vortex-glow/vortex-glow_04" },
