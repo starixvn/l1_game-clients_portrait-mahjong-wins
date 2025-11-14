@@ -1350,13 +1350,13 @@
       "b": 255,
       "a": 255
     },
-    "_string": "99",
+    "_string": "9999",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 73,
+    "_actualFontSize": 35,
     "_fontSize": 80,
     "_fontFamily": "Arial",
-    "_lineHeight": 80,
+    "_lineHeight": 120,
     "_overflow": 2,
     "_enableWrapText": true,
     "_font": {
@@ -1364,7 +1364,7 @@
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
-    "_spacingX": -3,
+    "_spacingX": 0,
     "_isItalic": false,
     "_isBold": false,
     "_isUnderline": false,
